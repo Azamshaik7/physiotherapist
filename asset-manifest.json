@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/physiotherapist/static/css/main.2df5b69b.css",
+    "main.js": "/physiotherapist/static/js/main.61346658.js",
+    "static/media/richa.png": "/physiotherapist/static/media/richa.a1d0f724534c21c5ded6.png",
+    "static/media/pretti.png": "/physiotherapist/static/media/pretti.1f104d2da4df7a5675d1.png",
+    "static/media/Gaurav_manav_V3.png": "/physiotherapist/static/media/Gaurav_manav_V3.92cbca6def09c2a0f9a3.png",
+    "static/media/login-col-left-img.png": "/physiotherapist/static/media/login-col-left-img.fc7e7940ab47df396aec.png",
+    "static/media/senior_bp_check.webp": "/physiotherapist/static/media/senior_bp_check.c4d9e7023833116c538f.webp",
+    "static/media/dashbordimg.jpeg": "/physiotherapist/static/media/dashbordimg.9026e34e621d548d213c.jpeg",
+    "static/media/femaleDummy.jpg": "/physiotherapist/static/media/femaleDummy.959d23df83323b7f274a.jpg",
+    "static/media/logo1.jpg": "/physiotherapist/static/media/logo1.20cd4e706d4f75fbf397.jpg",
+    "static/media/DateTime.png": "/physiotherapist/static/media/DateTime.d90a1e99527cd6acbd7f.png",
+    "static/media/headerBgImg.webp": "/physiotherapist/static/media/headerBgImg.95a27a0448d73f070d87.webp",
+    "static/media/whatWeTreat.webp": "/physiotherapist/static/media/whatWeTreat.fc64960e65a0f560db30.webp",
+    "static/media/datelogo.png": "/physiotherapist/static/media/datelogo.2c18c75fa3ae2bc18478.png",
+    "static/media/yogesh.webp": "/physiotherapist/static/media/yogesh.f18d98411092525342d7.webp",
+    "static/media/aitrack.webp": "/physiotherapist/static/media/aitrack.134e2e67b265ca17abeb.webp",
+    "static/media/Poonam.webp": "/physiotherapist/static/media/Poonam.e8bee3bbbb848f656e33.webp",
+    "static/media/treatmentbg.webp": "/physiotherapist/static/media/treatmentbg.cde2deeca4f2c3567af3.webp",
+    "static/media/plan2.webp": "/physiotherapist/static/media/plan2.f3ea37d788f2aebb1fcf.webp",
+    "static/media/gargi.webp": "/physiotherapist/static/media/gargi.872901c4f52bb1f9c2e2.webp",
+    "static/media/plan5.webp": "/physiotherapist/static/media/plan5.541b497d308d3bb75449.webp",
+    "static/media/aparna.webp": "/physiotherapist/static/media/aparna.21f49fcc1ca27423c379.webp",
+    "static/media/plan4.webp": "/physiotherapist/static/media/plan4.54a41378c2ce1971beae.webp",
+    "static/media/amol.webp": "/physiotherapist/static/media/amol.4d3183af96502c4342d2.webp",
+    "static/media/nikheel.webp": "/physiotherapist/static/media/nikheel.1b8ef6c2e033ad801fa7.webp",
+    "static/media/hipaa.webp": "/physiotherapist/static/media/hipaa.ef1942d2e75c7fbe9104.webp",
+    "static/media/iso.webp": "/physiotherapist/static/media/iso.f751bd1e6b98a7ec7f14.webp",
+    "static/media/gdpr.webp": "/physiotherapist/static/media/gdpr.7d704d7f3a3707c63351.webp",
+    "index.html": "/physiotherapist/index.html",
+    "static/media/footer-logo.svg": "/physiotherapist/static/media/footer-logo.2c5e7ab70ede407b544097254c7dbf52.svg",
+    "main.2df5b69b.css.map": "/physiotherapist/static/css/main.2df5b69b.css.map",
+    "main.61346658.js.map": "/physiotherapist/static/js/main.61346658.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2df5b69b.css",
+    "static/js/main.61346658.js"
+  ]
+}
